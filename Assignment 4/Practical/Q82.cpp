@@ -1,5 +1,4 @@
-//Q82.Create a class template Queue with member functions to enqueue, dequeue, and display
-elements.
+//Q82.Create a class template Queue with member functions to enqueue, dequeue, and display elements.
 #include <iostream>
 using namespace std;
 template <typename T>
