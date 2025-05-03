@@ -1,4 +1,4 @@
-//Q81.Implement a function template to perform bubble sort on an array of any data type.
+//Q82.Implement a function template to perform bubble sort on an array of any data type.
 #include <iostream>
 using namespace std;
 template <typename T>
